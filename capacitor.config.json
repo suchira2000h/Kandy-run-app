@@ -1,0 +1,9 @@
+{
+  "appId": "lk.kandyrun.game",
+  "appName": "Kandy Run",
+  "webDir": "www",
+  "backgroundColor": "#0e2a52",
+  "android": {
+    "allowMixedContent": false
+  }
+}
